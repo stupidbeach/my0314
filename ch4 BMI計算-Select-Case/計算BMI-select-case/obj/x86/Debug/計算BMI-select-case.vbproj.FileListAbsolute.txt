@@ -1,0 +1,23 @@
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\bin\Debug\計算BMI-select-case.exe
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\bin\Debug\計算BMI-select-case.pdb
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\bin\Debug\計算BMI-select-case.xml
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.exe
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.xml
+G:\mybook\VB\VB2010\ch3\計算BMI-select-case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.pdb
+G:\mybook\VB\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.exe
+G:\mybook\VB\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.xml
+G:\mybook\VB\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.exe
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.xml
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\bin\Debug\計算BMI-select-case.exe
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\bin\Debug\計算BMI-select-case.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\bin\Debug\計算BMI-select-case.xml
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算-Select-Case\計算BMI-select-case\obj\x86\Debug\計算BMI-select-case.vbproj.GenerateResource.Cache

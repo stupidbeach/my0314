@@ -1,0 +1,23 @@
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\bin\Debug\BMI計算.exe
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\bin\Debug\BMI計算.pdb
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\bin\Debug\BMI計算.xml
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\BMI計算.exe
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\BMI計算.xml
+G:\mybook\VB\VB2010\ch3\BMI計算\BMI計算\obj\x86\Debug\BMI計算.pdb
+G:\mybook\VB\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.exe
+G:\mybook\VB\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.xml
+G:\mybook\VB\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.exe
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.xml
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\bin\Debug\BMI計算.exe
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\bin\Debug\BMI計算.pdb
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\bin\Debug\BMI計算.xml
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\win7\Documents\VB2010\1052 Visual Basic 程式設計\VB2010\ch4\BMI計算\BMI計算\obj\x86\Debug\BMI計算.vbproj.GenerateResource.Cache
